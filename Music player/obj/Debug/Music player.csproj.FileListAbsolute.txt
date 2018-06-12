@@ -1,0 +1,57 @@
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\Music player.exe.config
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\Music player.exe
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\Music player.pdb
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\taglib-sharp.dll
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.csprojResolveAssemblyReference.cache
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music_player.Form1.resources
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music_player.Properties.Resources.resources
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.csproj.GenerateResource.cache
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.csproj.CoreCompileInputs.cache
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.csproj.CopyComplete
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.exe
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.pdb
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alastair\source\repos\Music player\Music player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alastair\source\repos\Music player\Music player\obj\Debug\Music player.csproj.ResolveComReference.cache
+D:\Music player\Music player\bin\Debug\Music player.exe.config
+D:\Music player\Music player\bin\Debug\Music player.exe
+D:\Music player\Music player\bin\Debug\Music player.pdb
+D:\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Music player\Music player\bin\Debug\taglib-sharp.dll
+D:\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Music player\Music player\bin\Debug\Interop.WMPLib.dll
+D:\Music player\Music player\bin\Debug\AxInterop.WMPLib.dll
+D:\Music player\Music player\obj\Debug\Music player.csprojResolveAssemblyReference.cache
+D:\Music player\Music player\obj\Debug\Interop.WMPLib.dll
+D:\Music player\Music player\obj\Debug\AxInterop.WMPLib.dll
+D:\Music player\Music player\obj\Debug\Music player.csproj.ResolveComReference.cache
+D:\Music player\Music player\obj\Debug\Music_player.Form1.resources
+D:\Music player\Music player\obj\Debug\Music_player.Properties.Resources.resources
+D:\Music player\Music player\obj\Debug\Music player.csproj.GenerateResource.cache
+D:\Music player\Music player\obj\Debug\Music player.csproj.CoreCompileInputs.cache
+D:\Music player\Music player\obj\Debug\Music player.csproj.CopyComplete
+D:\Music player\Music player\obj\Debug\Music player.exe
+D:\Music player\Music player\obj\Debug\Music player.pdb
+J:\Music player\Music player\bin\Debug\Music player.exe.config
+J:\Music player\Music player\bin\Debug\Music player.exe
+J:\Music player\Music player\bin\Debug\Music player.pdb
+J:\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.dll
+J:\Music player\Music player\bin\Debug\taglib-sharp.dll
+J:\Music player\Music player\bin\Debug\policy.2.0.taglib-sharp.config
+J:\Music player\Music player\bin\Debug\Interop.WMPLib.dll
+J:\Music player\Music player\bin\Debug\AxInterop.WMPLib.dll
+J:\Music player\Music player\obj\Debug\Music player.csprojResolveAssemblyReference.cache
+J:\Music player\Music player\obj\Debug\Interop.WMPLib.dll
+J:\Music player\Music player\obj\Debug\AxInterop.WMPLib.dll
+J:\Music player\Music player\obj\Debug\Music player.csproj.ResolveComReference.cache
+J:\Music player\Music player\obj\Debug\Music_player.Form1.resources
+J:\Music player\Music player\obj\Debug\Music_player.Properties.Resources.resources
+J:\Music player\Music player\obj\Debug\Music player.csproj.GenerateResource.cache
+J:\Music player\Music player\obj\Debug\Music player.csproj.CoreCompileInputs.cache
+J:\Music player\Music player\obj\Debug\Music player.csproj.CopyComplete
+J:\Music player\Music player\obj\Debug\Music player.exe
+J:\Music player\Music player\obj\Debug\Music player.pdb
