@@ -31,6 +31,7 @@ namespace Music_player
         bool playnext = false;
         bool updating = false;
         bool playwhenready = false;
+        bool selectsong = false;
         List<string> allsongs = new List<string>();
         List<string> allsongs1 = new List<string>();
         List<string> songs = new List<string>();
@@ -139,6 +140,11 @@ namespace Music_player
                     currentsongpath = songs[currentsongplay];
                     playprev = false;
                 }
+                else if (selectsong)
+                {
+                    currentsongpath = songs[currentsongplay];
+                    selectsong = false;
+                }
                 else if (playnext == true)
                 {
                     currentsongplay++;
@@ -171,7 +177,9 @@ namespace Music_player
                 else if (replay == true){}
                 string[] songnamme = (Path.GetFileName(currentsongpath).Split('.'));
                 label2.Text = (songnamme[songnamme.Length - 2]);
-
+                Console.WriteLine(songnamme[songnamme.Length - 1]);
+                listBox1.SetSelected(listBox1.FindString(songnamme[songnamme.Length -2] + "." + songnamme[songnamme.Length - 1]), true);
+                
                 Task.Run(() =>
                 {
                     if(shuffle == false)
@@ -187,7 +195,8 @@ namespace Music_player
             }
             catch
             {
-                if(currentsongplay == songs.Count)
+                
+                if (currentsongplay == songs.Count)
                 {
                     currentsongplay = -1;
                 }
@@ -503,5 +512,23 @@ namespace Music_player
         private void comboBox1_MouseClick(object sender, MouseEventArgs e) { groupBox1.Visible = false; }
         private void label1_MouseDown(object sender, MouseEventArgs e) { groupBox1.Visible = false; }
         private void label2_MouseClick(object sender, MouseEventArgs e) { groupBox1.Visible = false; }
+
+        private void listBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (listBox1.SelectedItem != null)
+            {
+                string selected = (listBox1.SelectedItem.ToString());
+                for (int i = 0; i < listBox1.Items.Count; i++)
+                {
+                    if (listBox1.Items[i] == selected)
+                    {
+                        Console.WriteLine(songs[i]);
+                        currentsongplay = i;
+                        selectsong = true;
+                        playnewsong();
+                    }
+                }
+            }
+        }
     }
 }
